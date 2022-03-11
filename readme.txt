@@ -14,3 +14,6 @@ My stupid boss still prefers SVN.
 
 
 RoboMaster
+
+
+Creating a new branch is quick.
